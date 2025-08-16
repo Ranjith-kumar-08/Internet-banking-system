@@ -44,7 +44,7 @@ To run this project, install the following:
 2. Install XAMPP and open
 3. Click to Start the Apache and MySQL servers from the XAMPP control panel.
 4. Again click the Admin ( MySQL)
-5. Open **phpMyAdmin** (through XAMPP) and **import the database file** `customerdb.sql`.  
+5. Open **phpMyAdmin** (through XAMPP) and **import the database file** `students.sql`.  
 6. Open your browser (Chrome/Firefox/etc.).  
 7. http://localhost/rkbank/index.html
 8. Run the project.
